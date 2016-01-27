@@ -6,4 +6,6 @@
  * Time: 21:34
  */
 
-phpinfo();
+require "vendor/autoload.php";
+
+require "ex.php";
